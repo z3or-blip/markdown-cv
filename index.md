@@ -1,28 +1,12 @@
-<!DOCTYPE html>
-<title>Resume</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
-<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
-<style>  
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:CALIBRI,ARIAL; }
-  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#A05; COLOR:WHITE }
-  h2  { border-bottom:1px solid grey; padding:2px; COLOR:PURPLE }
-</style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
-<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
-
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-woman.jpg" />
-
-<span style="float:right;padding:6px;COLOR:WHITE"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
-</span>
+# Lebenslauf Tim Jager
 
 ---
-layout: cv
-title: Lebenslauf Tim Jager
----
-# Tim Jager
 Psychologe mit 7-jähriger Erfahrung in der Begleitung neurologischer und geriatrischer Patient*innen sowie 2-jährige Leitungserfahrung als Teamleitung einer neuropsychologischen Abteilung. Voraussichtlich Ende 2025 Abschluss Weiterbildung klinische Neuropsychologie GNP sowie Beginn 2025 Approbationsausbildung Verhaltenstherapie.
+
+## Persönliche Informationen
+- Geburtstag: 21.09.1989
+- Wohnort: Jahnstraße 32, 93326 Abensberg
+- E-Mail: t.jager@protonmail.com
 
 ## aktuelle Tätigkeit
 

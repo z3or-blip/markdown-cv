@@ -3,84 +3,39 @@ layout: cv
 title: Lebenslauf Tim Jager
 ---
 # Tim Jager
-Physicist, Mathematician, Cambridge professor.
+Psychologe mit 7-jähriger Erfahrung in der Begleitung neurologischer und geriatrischer Patient*innen sowie 2-jährige Leitungserfahrung als Teamleitung einer neuropsychologischen Abteilung. Voraussichtlich Ende 2025 Abschluss Weiterbildung klinische Neuropsychologie GNP sowie Beginn 2025 Approbationsausbildung Verhaltenstherapie.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## aktuelle Tätigkeit
 
+### seit 03.22: Teamleitung Neuropsychologie Passauer Wolf Bad Gögging Gmbh & Co. KG
+- Mitarbeiterführung und -entwicklung (u.a Erstellung Dienst- & Urlaubspläne; Ausarbeitung Fortbildungsmöglichkeiten; Durchführung jährlicher Mitarbeitergespräche)
+- Ausarbeitung von Therapiekonzepten (z.B. MBOR in der Neurologie)
+- Sicherstellung der therapeutischen Qualität sowie Überprüfung der entsprechenden Richtlinien der Kostenträger (z.B. RTS Schlaganfall, OPS Parkinson-Komplexbehandlung)
+- Diagnostik und (neuro-)psychologische Behandlung multimorbider Patient:innen der Neurologie Phase C & D , Patient:innen der Parkinson-Komplexbehandlung sowie geriatrischen Patient:innen
 
-## Currently
+## Ausbildung
+### zertifizierte Weiterbildungen
+- 01.2025 - voraussichtlich 01.2030: Approbationsausbildung Verhaltenstherapie AVR Regensburg
+- 01.2019 - voraussichtlich 11.2025: Weiterbildung klinische Neuropsychologie GNP
+  
+### Studium  
+- 09.2012 - 09.2017: Studium Psychologie Bachelor & Master of Science VUB Brüssel (Schwerpunkte: biologische Psychologie & Levensloop Psychologie)
 
-Standing on the shoulders of giants
+### weitere Fortbildungen
+- Führung I (Basiskurs Führungskräfte Passauer Wolf Bad Gögging)
+- Führung "schwieriger" Mitarbeiter:innen (erweiternder Kurs Führungskräfte Bad Gögging)
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## besondere Fähigkeiten
+- Sprachkenntnisse:
+    -  Deutsch (Muttersprache)
+    -  Niederländisch (Muttersprache)
+    -  Englisch (sicher in Wort und Schrift)
+    -  Französzisch (basale Kenntnisse)
+- sicherer Umgang mit Microsoft Office (Word, Outlook, Excel, PowerPoint)
+- sicherer Umgang mit KIS-Software
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
